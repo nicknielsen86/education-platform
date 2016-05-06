@@ -9,9 +9,9 @@
 ##### Features
 - ~~Removed or not to be considered~~
 - **considering**
-- priority 1 highest - 10 lowest: keeping
+- keeping
 
-- 1: Lesson Sets
-- 5: Questeion/Answer forums
+- Lesson Sets
+- Questeion/Answer forums
 - **User submitted videos**
 - **Basic concept explanations**
