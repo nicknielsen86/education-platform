@@ -7,9 +7,9 @@
 - Users can read
 
 ##### Features
--~~Removed or not to be considered~~
--**considering**
--priority 1 highest - 10 lowest: keeping
+- ~~Removed or not to be considered~~
+- **considering**
+- priority 1 highest - 10 lowest: keeping
 
 - 1: Lesson Sets
 - 5: Questeion/Answer forums
