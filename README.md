@@ -6,12 +6,12 @@
 
 - Users can read
 
-##### Features (New ideas should be added here with 1 unless they already exist with 0)
-0: Removed or not to be considered
-1: considering
-2: keeping: priority 1 highest - 10 lowest
+##### Features
+-~~Removed or not to be considered~~
+-**considering**
+-priority 1 highest - 10 lowest: keeping
 
-- 2:1 Lesson Sets
-- 2:5 Questeion/Answer forums
-- 1: User submitted videos
-- 1: Basic concept explanations
+- 1: Lesson Sets
+- 5: Questeion/Answer forums
+- **User submitted videos**
+- **Basic concept explanations**
