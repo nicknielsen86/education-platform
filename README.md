@@ -11,6 +11,6 @@
 
 ## Features
 - Lesson Sets
-- Questeion/Answer forums
+- Questions/Answer forums
 - **User submitted videos**
 - **Basic concept explanations**
