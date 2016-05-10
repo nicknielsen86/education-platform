@@ -12,3 +12,4 @@
 - /answer
 - /video
 - /concept
+- /user
