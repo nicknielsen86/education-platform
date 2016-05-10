@@ -1,1 +1,10 @@
+*.idea
+
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
+
 BackEndEducationPlatform/.tmp
+
