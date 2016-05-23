@@ -1,4 +1,0 @@
-include ':library'
-include ':sample-basic-java'
-include ':sample-basic-kotlin'
-include ':sample-rxjava'

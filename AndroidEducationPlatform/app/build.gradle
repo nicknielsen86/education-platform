@@ -22,7 +22,23 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
-    compile 'com.android.support:appcompat-v7:23.3.0'
-    compile 'com.android.support:design:23.3.0'
-    compile project(':libs:dbtools-android-master')
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.android.support:design:23.4.0'
+    compile 'org.dbtools:gradle-dbtools-plugin:7.0.3'
 }
+
+/*
+dbtools {
+    type 'ANDROID' // or 'ANDROID-KOTLIN'
+
+    basePackageName 'org.company.project.domain'
+    outputSrcDir 'src/main/java/org/company/project/domain'
+
+    // optional items
+    injectionSupport true // support for @Inject (using JEE, Dagger, Guice, etc)
+    jsr305Support true // support for @Notnull / @Nullable etc
+    includeDatabaseNameInPackage true // place each set of domain objects into a package named after its database
+    dateType 'JSR-310' // DATE, JSR-310, JODA
+    rxJavaSupport false // support RxJava
+}
+*/
